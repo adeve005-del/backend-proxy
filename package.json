@@ -1,0 +1,12 @@
+{
+  "name": "backend-proxy",
+  "version": "1.0.0",
+  "description": "A backend proxy for handling requests",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "puppeteer": "^20.3.7"
+  }
+}
